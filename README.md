@@ -1,4 +1,4 @@
-# 🎬 Modern Video Platform (YouTube-Inspired React App)
+# Modern Video Platform (YouTube-Inspired React App)
 
 **Live Demo:** *Add your deployed link here (e.g., Vercel/Netlify)*
 
@@ -87,9 +87,6 @@ Create a `.env` file in the project root:
 ```
 VITE_RAPID_API_KEY=your_api_key_here
 ```
-
-⚠️ Do **not commit this file** to GitHub.
-
 ---
 
 # Running the Project Locally
