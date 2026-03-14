@@ -35,34 +35,35 @@ The application dynamically fetches video data from the **YouTube Data API v3** 
 # Project Structure
 
 ```
-video-platform/
-│
-├── public/
-│
-├── src/
-│   │
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Sidebar.jsx
-│   │   ├── SearchBar.jsx
-│   │   ├── VideoCard.jsx
-│   │   ├── ChannelCard.jsx
-│   │   ├── VideoPlayer.jsx
-│   │   ├── Loader.jsx
-│   │   ├── Feed.jsx
-│   │   ├── VideoDetails.jsx
-│   │   ├── ChannelDetails.jsx
-│   │
-│   ├── utils/
-│   │   └── constants.js
-        └── fetchFromAPI.js
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│
-├── .env
-├── package.json
-└── README.md
+ASS11 VIDEO PLATFORM/
+├─ node_modules/
+├─ public/
+├─ src/
+│  ├─ assets/
+│  ├─ components/
+│  │   ├─ ChannelCard.jsx
+│  │   ├─ ChannelDetails.jsx
+│  │   ├─ Feed.jsx
+│  │   ├─ Loader.jsx
+│  │   ├─ Navbar.jsx
+│  │   ├─ Search.jsx
+│  │   ├─ Sidebar.jsx
+│  │   ├─ VideoCard.jsx
+│  │   ├─ VideoCardDetails.jsx
+│  │   └─ VideoPlayer.jsx
+│  ├─ utils/
+│  │   ├─ constants.js
+│  │   └─ fetchFromAPI.js
+│  ├─ App.jsx
+│  ├─ App.css
+│  ├─ index.css
+│  └─ main.jsx
+├─ .env
+├─ .gitignore
+├─ package.json
+├─ package-lock.json
+└─ README.md
+
 ```
 
 ---
