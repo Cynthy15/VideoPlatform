@@ -1,6 +1,6 @@
 # Modern Video Platform (YouTube-Inspired React App)
 
-**Live Demo:** *Add your deployed link here (e.g., Vercel/Netlify)*
+**Live Demo:** *https://video-platform-cdlh.vercel.app/*
 
 The application dynamically fetches video data from the **YouTube Data API v3** via **RapidAPI**, allowing users to browse videos, view channel details, search for content, and watch videos in a responsive media player.
 
