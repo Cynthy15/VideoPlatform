@@ -21,7 +21,7 @@ function SearchBar() {
         onChange={(e) => setQuery(e.target.value)}
         onKeyDown={(e) => e.key === "Enter" && handleSearch()}
       />
-      <button onClick={handleSearch}>🔍</button>
+      <button onClick={handleSearch}>Search</button>
     </div>
   );
 }
